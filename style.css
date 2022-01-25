@@ -1,5 +1,10 @@
 /* YOUR STYLES HERE */
-}
 .different {
-  color:red;
-}
+  color:#ffdb6d;
+  text-align: center;
+  border-style: solid;
+  border-color: #ffdb6d ;
+  padding: 1rem;
+  background-color: #1d2531;
+
+} 

@@ -17,5 +17,14 @@ const cases = [
 ]
 
 // YOUR JS CODE
+let myVar = 'currentYear'
+let currentYear = 2021
+
+let myVar = `jsReleaseYear`
+let jsReleaseYear = 1995
+
+
+
+
 
 
