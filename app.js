@@ -17,11 +17,14 @@ const cases = [
 ]
 
 // YOUR JS CODE
-let currentYear = `2022`
-let jsReleaseYear = `1995`
-console.log(currentYear, jsReleaseYear)
+let currentYear = "2022"
+let jsReleaseYear = "1995"
 
-for (let i = 0; i < 100.length; i++) {
+
+for (let i = 0; i < 101; i++) {
 console.log(i)
-
+if (i % 10 == 0) {
+    console.log(i)
+  }
+  
 } 
